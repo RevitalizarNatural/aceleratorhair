@@ -1,0 +1,20 @@
+@font-face {
+    font-family: mazzard;
+    src: url(https://fonts.assets-landingi.com/M5hrqCD2/MazzardH_Black.otf) format('opentype');
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: mazzard;
+    src: url(https://fonts.assets-landingi.com/QgEtVnnX/MazzardH_ExtraLight.otf) format('opentype');
+    font-weight: 300;
+    font-style: normal
+}
+
+@font-face {
+    font-family: mazzard;
+    src: url(https://fonts.assets-landingi.com/jKVXvl3U/MazzardH_Black.otf) format('opentype');
+    font-weight: 700;
+    font-style: normal
+}

@@ -1,0 +1,15 @@
+@font-face {
+    font-family: arial;
+    src: url(https://fonts.assets-landingi.com/XOT1xw7Y/arial.ttf) format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: arial;
+    src: url(https://fonts.assets-landingi.com/SWTOxHxF/arial_black.ttf) format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap
+}

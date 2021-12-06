@@ -1,0 +1,23 @@
+@font-face {
+    font-family: san francisco;
+    src: url(https://fonts.assets-landingi.com/ZC8L5UeQ/SF_Pro_Display_Regular.otf) format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: san francisco;
+    src: url(https://fonts.assets-landingi.com/rtqBKyTn/SF_Pro_Display_Light.otf) format('opentype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap
+}
+
+@font-face {
+    font-family: san francisco;
+    src: url(https://fonts.assets-landingi.com/262G3sbQ/SF_Pro_Display_Bold.otf) format('opentype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap
+}
